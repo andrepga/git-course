@@ -1,3 +1,4 @@
 curso de git e github para iniciantes
 Alteração arquivo
 Uma nova mensagem: Gostou do curso, ajude com uma doação.
+Alteração remota
